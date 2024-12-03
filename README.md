@@ -14,7 +14,7 @@ Time series anomaly detection is typically used to identify data that significan
 - **Performance & Justification**:  TMino evaluates eight real datasets from different fields. In both early anomaly detection and post anomaly detection tasks, T-Mino outperforms existing state-of-the-art methods.
 
 
-|![Figure2](img/T-Mino.pdf)|
+|![Figure2](img/T-Mino.png)|
 |:--:| 
 | *Figure 2. The workflow of the TMino framework.* |
 
@@ -22,7 +22,7 @@ Time series anomaly detection is typically used to identify data that significan
 ## Main Result
 We compare model with eleven baseline methods to evaluate TMino performance in early and post anomaly detection tasks. Extensive experiments show that TMino achieves the best or comparable performance on benchmark datasets compared to various state-of-the-art algorithms.
 
-|![Figure1](img/results.jpg)|
+|![Figure1](img/results.png)|
 |:--:| 
 | *Table 1. For the early anomaly detection task, overall results on real-world datasets.* |
 
