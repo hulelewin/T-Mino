@@ -45,7 +45,7 @@ There are ten files/folders in the source.
 
 ## Get Start
 1. Install Python 3.9, PyTorch = 1.13.
-2. Download data. You can obtain all benchmarks from [Baidu Cloud](https://pan.baidu.com/s/1FnJv0FR7UFsAp5Jmqp4Ewg?pwd=wmav). password: wmav. 
+2. Download data. You can obtain all benchmarks from [Baidu Cloud](https://pan.baidu.com/s/1FnJv0FR7UFsAp5Jmqp4Ewg?pwd=wmav). Password: wmav. 
 3. Train and evaluate. We provide the experiment scripts of all benchmarks under the folder ```./scripts```. You can reproduce the experiment results as follows:
 
 ```bash
